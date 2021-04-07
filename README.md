@@ -1,1 +1,1 @@
-created a text-based rpg game using python
+Created a text-based rpg game using python.
